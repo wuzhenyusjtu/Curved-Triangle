@@ -1,0 +1,42 @@
+C:\Users\rb2rru\Desktop\Curved Triangle\CurvedTriangle\CurvedTriangle\bin\Debug\CurvedTriangle.exe.config
+C:\Users\rb2rru\Desktop\Curved Triangle\CurvedTriangle\CurvedTriangle\bin\Debug\CurvedTriangle.exe
+C:\Users\rb2rru\Desktop\Curved Triangle\CurvedTriangle\CurvedTriangle\bin\Debug\CurvedTriangle.pdb
+C:\Users\rb2rru\Desktop\Curved Triangle\CurvedTriangle\CurvedTriangle\obj\Debug\CurvedTriangle.csprojResolveAssemblyReference.cache
+C:\Users\rb2rru\Desktop\Curved Triangle\CurvedTriangle\CurvedTriangle\obj\Debug\CurvedTriangle.exe
+C:\Users\rb2rru\Desktop\Curved Triangle\CurvedTriangle\CurvedTriangle\obj\Debug\CurvedTriangle.pdb
+C:\Users\rb2rru\Desktop\Curved Triangle\CurvedTriangle - Copy\CurvedTriangle\bin\Debug\CurvedTriangle.exe.config
+C:\Users\rb2rru\Desktop\Curved Triangle\CurvedTriangle - Copy\CurvedTriangle\obj\Debug\CurvedTriangle.exe
+C:\Users\rb2rru\Desktop\Curved Triangle\CurvedTriangle - Copy\CurvedTriangle\obj\Debug\CurvedTriangle.pdb
+C:\Users\rb2rru\Desktop\Curved Triangle\CurvedTriangle - Copy\CurvedTriangle\bin\Debug\CurvedTriangle.exe
+C:\Users\rb2rru\Desktop\Curved Triangle\CurvedTriangle - Copy\CurvedTriangle\bin\Debug\CurvedTriangle.pdb
+C:\Users\rb2rru\Desktop\Curved Triangle\CurvedTriangle - Copy\CurvedTriangle\obj\Debug\CurvedTriangle.csprojResolveAssemblyReference.cache
+C:\Users\rb2rru\Desktop\Curved Triangle\CurvedTriangle (Mixed Method)\CurvedTriangle\bin\Debug\CurvedTriangle.exe.config
+C:\Users\rb2rru\Desktop\Curved Triangle\CurvedTriangle (Mixed Method)\CurvedTriangle\obj\Debug\CurvedTriangle.exe
+C:\Users\rb2rru\Desktop\Curved Triangle\CurvedTriangle (Mixed Method)\CurvedTriangle\obj\Debug\CurvedTriangle.pdb
+C:\Users\rb2rru\Desktop\Curved Triangle\CurvedTriangle (Mixed Method)\CurvedTriangle\bin\Debug\CurvedTriangle.exe
+C:\Users\rb2rru\Desktop\Curved Triangle\CurvedTriangle (Mixed Method)\CurvedTriangle\bin\Debug\CurvedTriangle.pdb
+C:\Users\rb2rru\Desktop\Curved Triangle\CurvedTriangle (Mixed Method)\CurvedTriangle\obj\Debug\CurvedTriangle.csprojResolveAssemblyReference.cache
+D:\public\Williams-Work\2015-March-23\CurvedTriangle New\CurvedTriangle\bin\Debug\CurvedTriangle.exe.config
+D:\public\Williams-Work\2015-March-23\CurvedTriangle New\CurvedTriangle\obj\Debug\CurvedTriangle.exe
+D:\public\Williams-Work\2015-March-23\CurvedTriangle New\CurvedTriangle\obj\Debug\CurvedTriangle.pdb
+C:\Users\rb2rru\Desktop\CurvedTriangle New\CurvedTriangle\bin\Debug\CurvedTriangle.exe.config
+C:\Users\rb2rru\Desktop\CurvedTriangle New\CurvedTriangle\obj\Debug\CurvedTriangle.exe
+C:\Users\rb2rru\Desktop\CurvedTriangle New\CurvedTriangle\obj\Debug\CurvedTriangle.pdb
+C:\Users\rb2rru\Desktop\CurvedTriangle New\CurvedTriangle\bin\Debug\CurvedTriangle.exe
+C:\Users\rb2rru\Desktop\CurvedTriangle New\CurvedTriangle\bin\Debug\CurvedTriangle.pdb
+C:\Users\rb2rru\Desktop\CurvedTriangle New\CurvedTriangle\obj\Debug\CurvedTriangle.csprojResolveAssemblyReference.cache
+C:\Users\rb2rru\Desktop\CurvedTriangle New - Copy\CurvedTriangle\bin\Debug\CurvedTriangle.exe.config
+C:\Users\rb2rru\Desktop\CurvedTriangle New - Copy\CurvedTriangle\obj\Debug\CurvedTriangle.exe
+C:\Users\rb2rru\Desktop\CurvedTriangle New - Copy\CurvedTriangle\obj\Debug\CurvedTriangle.pdb
+C:\Users\rb2rru\Desktop\CurvedTriangle New - Copy - Copy\CurvedTriangle\bin\Debug\CurvedTriangle.exe.config
+C:\Users\rb2rru\Desktop\CurvedTriangle New - Copy - Copy\CurvedTriangle\obj\Debug\CurvedTriangle.exe
+C:\Users\rb2rru\Desktop\CurvedTriangle New - Copy - Copy\CurvedTriangle\obj\Debug\CurvedTriangle.pdb
+C:\Users\cennt1\Downloads\CurvedTriangle\CurvedTriangle-Final\CurvedTriangle\bin\Debug\CurvedTriangle.exe.config
+C:\Users\cennt1\Downloads\CurvedTriangle\CurvedTriangle-Final\CurvedTriangle\obj\Debug\CurvedTriangle.exe
+C:\Users\cennt1\Downloads\CurvedTriangle\CurvedTriangle-Final\CurvedTriangle\obj\Debug\CurvedTriangle.pdb
+C:\Users\cennt1\Downloads\CurvedTriangle\CurvedTriangle-Final\CurvedTriangle\obj\Debug\CurvedTriangle.csprojResolveAssemblyReference.cache
+C:\Users\cennt1\Downloads\CurvedTriangle\CurvedTriangle-Final\CurvedTriangle\bin\Debug\CurvedTriangle.exe
+C:\Users\cennt1\Downloads\CurvedTriangle\CurvedTriangle-Final\CurvedTriangle\bin\Debug\CurvedTriangle.pdb
+\\vmware-host\Shared Folders\wuzhenyu On My Mac\Documents\本科生涯资料\本科学术资料\实习\Curved Triangles\Curved Triangle\CurvedTriangle-Final\CurvedTriangle\bin\Debug\CurvedTriangle.exe.config
+\\vmware-host\Shared Folders\wuzhenyu On My Mac\Documents\本科生涯资料\本科学术资料\实习\Curved Triangles\Curved Triangle\CurvedTriangle-Final\CurvedTriangle\obj\Debug\CurvedTriangle.exe
+\\vmware-host\Shared Folders\wuzhenyu On My Mac\Documents\本科生涯资料\本科学术资料\实习\Curved Triangles\Curved Triangle\CurvedTriangle-Final\CurvedTriangle\obj\Debug\CurvedTriangle.pdb

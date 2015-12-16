@@ -1,0 +1,30 @@
+C:\Users\rb2rru\Desktop\TestsOnModels\TestsOnModels\bin\Debug\TestsOnModels.exe.config
+C:\Users\rb2rru\Desktop\TestsOnModels\TestsOnModels\bin\Debug\TestsOnModels.exe
+C:\Users\rb2rru\Desktop\TestsOnModels\TestsOnModels\bin\Debug\TestsOnModels.pdb
+C:\Users\rb2rru\Desktop\TestsOnModels\TestsOnModels\bin\Debug\NXOpen.xml
+C:\Users\rb2rru\Desktop\TestsOnModels\TestsOnModels\bin\Debug\NXOpen.Utilities.xml
+C:\Users\rb2rru\Desktop\TestsOnModels\TestsOnModels\bin\Debug\NXOpenUI.xml
+C:\Users\rb2rru\Desktop\TestsOnModels\TestsOnModels\bin\Debug\Snap.xml
+C:\Users\rb2rru\Desktop\TestsOnModels\TestsOnModels\obj\Debug\TestsOnModels.csprojResolveAssemblyReference.cache
+C:\Users\rb2rru\Desktop\TestsOnModels\TestsOnModels\obj\Debug\TestsOnModels.exe
+C:\Users\rb2rru\Desktop\TestsOnModels\TestsOnModels\obj\Debug\TestsOnModels.pdb
+C:\Users\rb2rru\Desktop\TestsOnModels New\TestsOnModels\bin\Debug\TestsOnModels.exe.config
+C:\Users\rb2rru\Desktop\TestsOnModels New\TestsOnModels\obj\Debug\TestsOnModels.exe
+C:\Users\rb2rru\Desktop\TestsOnModels New\TestsOnModels\obj\Debug\TestsOnModels.pdb
+C:\Users\rb2rru\Desktop\TestsOnModels New\TestsOnModels\bin\Debug\TestsOnModels.exe
+C:\Users\rb2rru\Desktop\TestsOnModels New\TestsOnModels\bin\Debug\TestsOnModels.pdb
+C:\Users\rb2rru\Desktop\TestsOnModels New\TestsOnModels\bin\Debug\NXOpen.xml
+C:\Users\rb2rru\Desktop\TestsOnModels New\TestsOnModels\bin\Debug\NXOpen.Utilities.xml
+C:\Users\rb2rru\Desktop\TestsOnModels New\TestsOnModels\bin\Debug\NXOpenUI.xml
+C:\Users\rb2rru\Desktop\TestsOnModels New\TestsOnModels\bin\Debug\Snap.xml
+C:\Users\rb2rru\Desktop\TestsOnModels New\TestsOnModels\obj\Debug\TestsOnModels.csprojResolveAssemblyReference.cache
+C:\Users\cennt1\Downloads\New folder\TestsOnModels-Final\TestsOnModels\bin\Debug\TestsOnModels.exe.config
+C:\Users\cennt1\Downloads\New folder\TestsOnModels-Final\TestsOnModels\obj\Debug\TestsOnModels.exe
+C:\Users\cennt1\Downloads\New folder\TestsOnModels-Final\TestsOnModels\obj\Debug\TestsOnModels.pdb
+C:\Users\cennt1\Downloads\New folder\TestsOnModels-Final\TestsOnModels\obj\Debug\TestsOnModels.csprojResolveAssemblyReference.cache
+C:\Users\cennt1\Downloads\New folder\TestsOnModels-Final\TestsOnModels\bin\Debug\TestsOnModels.exe
+C:\Users\cennt1\Downloads\New folder\TestsOnModels-Final\TestsOnModels\bin\Debug\TestsOnModels.pdb
+C:\Users\cennt1\Downloads\New folder\TestsOnModels-Final\TestsOnModels\bin\Debug\NXOpen.xml
+C:\Users\cennt1\Downloads\New folder\TestsOnModels-Final\TestsOnModels\bin\Debug\NXOpen.Utilities.xml
+C:\Users\cennt1\Downloads\New folder\TestsOnModels-Final\TestsOnModels\bin\Debug\NXOpenUI.xml
+C:\Users\cennt1\Downloads\New folder\TestsOnModels-Final\TestsOnModels\bin\Debug\Snap.xml
